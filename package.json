@@ -84,7 +84,7 @@
     "jsonValidation": [
       {
         "fileMatch": "pyconfig.json",
-        "url": "/schemas/pyconfig.schema.json"
+        "url": "./schemas/pyconfig.schema.json"
       }
     ],
     "configuration": {
